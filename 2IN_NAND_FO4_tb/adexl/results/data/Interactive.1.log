@@ -1,0 +1,19 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Jun  1 19:34:56 2021 
+Best design point: 1
+Design specs: 
+	my_library:2IN_NAND_FO4_tb:1	corner	Nominal - 
+	tphl		23.92p
+	tplh		50.23p
+	((tplh + tphl) / 2)		37.07p
+Design parameters: 
+	H		4
+	k		1
+	VIN		0
+
+Interactive.1
+Number of points completed: 9
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Tue Jun  1 19:37:30 2021 
