@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu
+Z0 w1621630596
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Omar Diaa/Desktop
+Z6 8C:/Users/Omar Diaa/Desktop/ALU Code.vhd
+Z7 FC:/Users/Omar Diaa/Desktop/ALU Code.vhd
+l0
+L23
+VHT>FWK0NMoK^``4[UP:=V0
+!s100 [5<7@<mnGL[2RfzmAWG5Z2
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1621630601
+!i10b 1
+Z10 !s108 1621630601.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Omar Diaa/Desktop/ALU Code.vhd|
+Z12 !s107 C:/Users/Omar Diaa/Desktop/ALU Code.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 HT>FWK0NMoK^``4[UP:=V0
+l31
+L30
+VZYPbQ9TanAU?gcZ;f3TZA3
+!s100 o8J?IJ=Z]aKD1Bc_KNGAZ2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu_tb
+Z15 w1621630575
+Z16 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Omar Diaa/Desktop/TestBench.vhd
+Z18 FC:/Users/Omar Diaa/Desktop/TestBench.vhd
+l0
+L8
+VDi]o2OF1cW4lYaYmX9BgE3
+!s100 8P9Fz3;f<[?P3DS4kMzT90
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Omar Diaa/Desktop/TestBench.vhd|
+Z20 !s107 C:/Users/Omar Diaa/Desktop/TestBench.vhd|
+!i113 1
+R13
+R14
+Atb_arch
+R16
+R1
+R2
+R3
+R4
+DEx4 work 6 alu_tb 0 22 Di]o2OF1cW4lYaYmX9BgE3
+l23
+L13
+V7OKh`>SQY;k=>[HWXEc?l3
+!s100 De@YM[c[KV?hmgGJN3Xl@3
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14

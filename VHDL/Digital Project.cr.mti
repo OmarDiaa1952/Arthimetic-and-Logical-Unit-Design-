@@ -1,0 +1,24 @@
+{C:/Users/Omar Diaa/Desktop/ALU Code.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Omar Diaa/Desktop/ALU Code.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity alu
+-- Compiling architecture dataflow of alu
+
+} {} {}} {C:/Users/Omar Diaa/Desktop/TestBench.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Omar Diaa/Desktop/TestBench.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package ENV
+** Warning: C:/Users/Omar Diaa/Desktop/TestBench.vhd(4): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+
+-- Compiling entity alu_tb
+-- Compiling architecture tb_arch of alu_tb
+
+} {} {}}
